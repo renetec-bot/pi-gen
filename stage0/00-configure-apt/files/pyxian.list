@@ -1,0 +1,2 @@
+deb http://packages.renetec.io/pyxian/ buster main
+deb http://uncached.renetec.io/pyxian-staging/ buster main
